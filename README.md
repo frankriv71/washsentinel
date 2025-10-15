@@ -127,8 +127,8 @@ Developed and presented to a panel of CEOs, engineers, and faculty judges at Syr
 ## Contact
 
 For collaboration or press inquiries:
-📧 **[contact@washsentinel.com](mailto:contact@washsentinel.com)**
-🌐 [LinkedIn](https://linkedin.com/company/washsentinel) | [Invent@SU](https://launchpad.syr.edu)
+📧 **[contact@washsentinel.com](farivera@syr.edu)**
+🌐 [LinkedIn](https://linkedin.com/andy-swe/ | [Invent@SU](https://launchpad.syr.edu)
 
 ---
 
