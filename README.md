@@ -1,5 +1,5 @@
 
-# 🧠 WashSentinel
+# WashSentinel
 
 **Smart Laundry Security System | IoT + Mobile + Cloud**
 
@@ -123,13 +123,3 @@ flutter run
 Developed and presented to a panel of CEOs, engineers, and faculty judges at Syracuse University’s Invent@SU competition.
 
 ---
-
-## Contact
-
-For collaboration or press inquiries:
-📧 **[contact@washsentinel.com](farivera@syr.edu)**
-🌐 [LinkedIn](https://linkedin.com/andy-swe/ | [Invent@SU](https://launchpad.syr.edu)
-
----
-
-Would you like me to generate a **version tailored for public investors/startup competitions** (more branding + story tone) or keep this **engineering-focused GitHub version** as is?
